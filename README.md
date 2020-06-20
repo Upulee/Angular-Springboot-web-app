@@ -24,9 +24,9 @@ Angular CLI
 To setup the project in your machine >>
 # For frontend setup
 Please run the command 
-# npm install 
+"npm install" 
 This is to insatll ng modules.
 
 # For backend setup
 Please setup tomcat server in the IDE with given JDK dependencies and run the project as
-# springboot application
+"springboot application"
