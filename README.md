@@ -25,7 +25,7 @@ To setup the project in your machine >>
 # For frontend setup
 Please run the command 
 "npm install" 
-This is to insatll ng modules.
+This is to install ng modules.
 
 # For backend setup
 Please setup tomcat server in the IDE with given JDK dependencies and run the project as
